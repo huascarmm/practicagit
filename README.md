@@ -1,2 +1,2 @@
-# practicagit
-A git exercises repository
+# Práctica git
+Un repositorio de prácticas de git
