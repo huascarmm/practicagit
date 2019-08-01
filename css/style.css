@@ -6,4 +6,5 @@ body{
     width: 100%;
     padding: 15px;
     background-color: azure;
+    display: flex; justify-content: space-around; align-items: center;
 }
